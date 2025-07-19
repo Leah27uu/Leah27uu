@@ -10,6 +10,7 @@ I'm a **self-taught software developer** with a focus on building **desktop appl
 🔹 Building **feature-rich WPF applications**  
 🔹 Improving **UI/UX design for better user experiences**  
 🔹 Learning **best practices in software development**  
+🔹 Building **Godot based fishing game** 
 
 ---
 
